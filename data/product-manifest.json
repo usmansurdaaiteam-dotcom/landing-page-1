@@ -1,0 +1,2871 @@
+{
+  "generatedAt": "2026-08-17T01:38:26.365Z",
+  "products": [
+    {
+      "slug": "p14",
+      "name": "P14 Lounge Chair",
+      "collection": "Lusso",
+      "title": "Lounge Chair P14",
+      "subtitle": "Sage-green tufted upholstery on a dark ash frame.",
+      "materialLine": "Suede-touch weave · solid ash · hand-tufted cushions",
+      "story": "A complete visual production — from raw warehouse captures to a campaign-ready asset system.",
+      "heroes": {
+        "primary": "campaign-3",
+        "packshot": "studio-white-1",
+        "dark": "campaign-1",
+        "light": "campaign-6",
+        "indoor": "scene-gallery-1",
+        "outdoor": "scene-veranda-1",
+        "field": "scene-wheat-1",
+        "rawBefore": "raw-1330"
+      },
+      "beforeAfter": [
+        {
+          "before": "raw-1330",
+          "after": "studio-white-5",
+          "label": "Frontal"
+        },
+        {
+          "before": "raw-1322",
+          "after": "studio-white-1",
+          "label": "Three-quarter"
+        },
+        {
+          "before": "raw-1369",
+          "after": "studio-white-4",
+          "label": "Material"
+        },
+        {
+          "before": "raw-1285",
+          "after": "studio-grey-1",
+          "label": "Studio light"
+        }
+      ],
+      "counts": {
+        "raw": 93,
+        "studio": 10,
+        "lifestyle": 18,
+        "campaign": 7,
+        "video": 1
+      },
+      "video": {
+        "id": "video-story",
+        "src": "/assets/p14/video/p14-story.mp4",
+        "poster": "/assets/p14/video/p14-story-poster.jpg",
+        "durationSeconds": 19,
+        "derived": true,
+        "derivedFrom": [
+          "campaign-3",
+          "scene-gallery-1",
+          "scene-veranda-1",
+          "scene-wheat-1",
+          "campaign-1"
+        ],
+        "note": "Motion study derived from campaign stills."
+      },
+      "stages": [
+        {
+          "key": "source",
+          "index": 1,
+          "label": "Source",
+          "heading": "Raw captures",
+          "copy": "93 phone photos taken in the warehouse — every angle, joint and fabric detail, shot against a plain sheet.",
+          "categories": [
+            "raw"
+          ]
+        },
+        {
+          "key": "studio",
+          "index": 2,
+          "label": "Studio",
+          "heading": "Studio reconstruction",
+          "copy": "The chair rebuilt in our studio — clean, consistent packshots and material macros on white and grey sweeps.",
+          "categories": [
+            "studio"
+          ]
+        },
+        {
+          "key": "lifestyle",
+          "index": 3,
+          "label": "Lifestyle",
+          "heading": "Lifestyle worlds",
+          "copy": "Placed in the spaces it belongs — six curated worlds from gallery interiors to open wheat fields.",
+          "categories": [
+            "lifestyle"
+          ]
+        },
+        {
+          "key": "campaign",
+          "index": 4,
+          "label": "Campaign",
+          "heading": "Campaign & motion",
+          "copy": "Editorial hero compositions and a short motion piece for storytelling and brand usage.",
+          "categories": [
+            "campaign",
+            "video"
+          ]
+        }
+      ],
+      "deliverables": [
+        {
+          "key": "packshots",
+          "index": 1,
+          "label": "Clean Packshots",
+          "copy": "Crisp, consistent packshots from every angle.",
+          "filter": {
+            "category": "studio",
+            "crop": [
+              "full"
+            ]
+          }
+        },
+        {
+          "key": "details",
+          "index": 2,
+          "label": "Material Close-Ups",
+          "copy": "Detailed captures of fabric, wood grain and craftsmanship.",
+          "filter": {
+            "category": "studio",
+            "crop": [
+              "close",
+              "macro"
+            ]
+          }
+        },
+        {
+          "key": "lifestyle",
+          "index": 3,
+          "label": "Lifestyle Images",
+          "copy": "Designed to inspire with authentic, curated scenes.",
+          "filter": {
+            "category": "lifestyle"
+          }
+        },
+        {
+          "key": "campaign",
+          "index": 4,
+          "label": "Campaign Worlds",
+          "copy": "Hero compositions for storytelling & brand usage.",
+          "filter": {
+            "category": "campaign"
+          }
+        },
+        {
+          "key": "video",
+          "index": 5,
+          "label": "Short Video",
+          "copy": "Cinematic product motion for digital campaigns.",
+          "filter": {
+            "category": "video"
+          }
+        }
+      ],
+      "sceneFamilies": [
+        {
+          "key": "gallery",
+          "label": "Gallery",
+          "setting": "indoor"
+        },
+        {
+          "key": "dark",
+          "label": "Dark Room",
+          "setting": "indoor"
+        },
+        {
+          "key": "veranda",
+          "label": "Veranda",
+          "setting": "outdoor"
+        },
+        {
+          "key": "beach",
+          "label": "Beach",
+          "setting": "outdoor"
+        },
+        {
+          "key": "desert",
+          "label": "Desert",
+          "setting": "outdoor"
+        },
+        {
+          "key": "wheat",
+          "label": "Wheat Field",
+          "setting": "outdoor"
+        }
+      ],
+      "assets": [
+        {
+          "id": "raw-1285",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1285.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "back view — strongest 'before' back shot",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3880346
+          },
+          "web": {
+            "src": "/assets/p14/raw-1285.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBQCdASoUABsAPxF0s1MsJiSisBgIAYAiCUAWIaQAlTih3SIOXBTUktAdfe20XDE7AAD811q1mf0CJkxxLe1krhOyUBf9JmzfdvahwdD5rg3trniwekR6xx0e+TQ7Ct8qsYMreV8A4/bxTKlzJh8scubgF3toiriDn3qFag5R4GU7b9HFAAAA"
+          }
+        },
+        {
+          "id": "raw-1286",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1286.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2523220
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1287",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1287.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2505405
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1288",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1288.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2603664
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1289",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1289.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2321821
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1290",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1290.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "back view, straight-on",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2210432
+          },
+          "web": {
+            "src": "/assets/p14/raw-1290.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQBACdASoUABsAPxF2slGsJySiqA1RgCIJQBOgAi8nEqnyE56Rhr/9fF2BLCP9gAD+qXeLnDa2b64d3BBzOKcpUL2fg4J6IUgCFVKtwMShLkBLBcFrAJgZ17FN2Zqfyqj+MdhtWmoXiLsn5/4UjB7lteQ46E384uUwQQfdnJMVnBMsK4qCHaOcAAA="
+          }
+        },
+        {
+          "id": "raw-1291",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1291.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2372107
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1292",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1292.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2373002
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1293",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1293.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2464698
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1294",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1294.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2399672
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1295",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1295.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "back view against white sheet backdrop",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2400317
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1296",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1296.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "leaning side angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2532827
+          },
+          "web": {
+            "src": "/assets/p14/raw-1296.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwBACdASoUABsAPxFysFAsJqSisAgBgCIJYwDDcCCwqpV60LDJxz33ojyslJ9oeAAAzGJpvvd7qCCHrjx5jaro7CbKzv5BMykwxjXayIWg3kwkTwjQjfdjfSAEbm7ueXbUsWjIMxIO/FyW0L/Yl12bWhuiuoEz07+SFohg7a9ilw5TcadOAAAA"
+          }
+        },
+        {
+          "id": "raw-1297",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1297.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side / leaning angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2387857
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1298",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1298.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side / leaning angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2407590
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1299",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1299.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side / leaning angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2375838
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1300",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1300.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "side profile",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2454022
+          },
+          "web": {
+            "src": "/assets/p14/raw-1300.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAQBQCdASoUABsAPxF8tFQsJ6SjKAqpgCIJQBgbgVa40zO8Q/uvAdYMsNyfABg4fMoAAMx3Nhs5SH9oS/I6+ZccTfDtiJ6M5F3bgYiysQCYwvvPevpKE+Qqd2HF05wDGSXMx4Y5b8xgyytezZEaIe57NIALrIdbjc8ue5hVLp3rc8OhO3SlhpbmCBHLwzHhL4iL3KCxshgAAA=="
+          }
+        },
+        {
+          "id": "raw-1301",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1301.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2740214
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1302",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1302.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3088241
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1303",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1303.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2732890
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1304",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1304.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3548639
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1305",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1305.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2751697
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1306",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1306.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "backrest and frame edge close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2539527
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1307",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1307.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "frame angle, legs visible",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2511295
+          },
+          "web": {
+            "src": "/assets/p14/raw-1307.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwBACdASoUABsAPxFurVAsJiQisAgBgCIJYwCdABZ57QUJrrEoM5sGYXa8H6/MuIAA/YW9SyAos/3Od5rGph1yBpagZ5Go2209oqVZd7yRBvnnx0Q0eUfu8X5gWD7r7q1KNC41vogMwRkvMSvTqpIisyoBvPkt/sdMz3tQT3BYgad9VQoNQfIAAAA="
+          }
+        },
+        {
+          "id": "raw-1308",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1308.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2410173
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1309",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1309.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2426859
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1310",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1310.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2432662
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1311",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1311.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2375894
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1312",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1312.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2483730
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1313",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1313.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "side profile, full frame",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2476185
+          },
+          "web": {
+            "src": "/assets/p14/raw-1313.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwBACdASoUABsAPxFyr1CsJqQisAgBgCIJYwCdISACtPi099Iq92f7H1Fxg99D0kAA8ixuwQoYdHEYurcTmh2Hhpa9KEdUCdgL9EOIefP8tFO8y/u+fKF/MfVcGvds8mcpmu0X49pahMz7j9kq9hAVARWGerwBUn45Nzlpy0pUXsCAAAA="
+          }
+        },
+        {
+          "id": "raw-1314",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1314.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2395416
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1315",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1315.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2452173
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1316",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1316.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2441374
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1317",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1317.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2417743
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1318",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1318.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "low side angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2472595
+          },
+          "web": {
+            "src": "/assets/p14/raw-1318.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQBACdASoUABsAPxF6tlOsJ6UiqAqpgCIJYwDH5DNIgwZ5SOc+Qx3UUE/bsMAA/papOyFuYHYgdm5/Vmt8vbT2vuM1UCHEtY9oqeLo4bXDiPCQ/GQeAf4sUFzjFPCCaQxfI4z13AaspXmk0ALboXqfriwMhHUUVy7hS39kuEfpPOAAAAA="
+          }
+        },
+        {
+          "id": "raw-1319",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1319.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "side profile and frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2494352
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1320",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1320.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2305178
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1321",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1321.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2324126
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1322",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1322.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "front view — key 'before' candidate",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2291460
+          },
+          "web": {
+            "src": "/assets/p14/raw-1322.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBQCdASoUABsAPxF0sFAsJySisAgBgCIJYwC7ABu1tcma++yPEUn3FfUksv4MwSywAPX4DCuAN6CbFYEE8vEmoiUAYvHV+rH15s74PDMHeDDpBSBNM63A94//ocF9/kJI0xBv1Fnd2mOPGGj8usY8btDJxyaWYq0a9vQANFiDDICPEe8gAA=="
+          }
+        },
+        {
+          "id": "raw-1323",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1323.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2442404
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1324",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1324.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2441019
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1325",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1325.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2448011
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1326",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1326.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "front view, slight angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2519145
+          },
+          "web": {
+            "src": "/assets/p14/raw-1326.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACwBACdASoUABsAPxF2sFAsJ6SisAgBgCIJZQDImB6WA4EoXXzj8+p0ZjzhrwQAAP3SYNIaXfUTkHQ+xt2DavPqxJHzItyksT/JtFR70MuBMxW8jcJAp0qhs4uhZyiNIjsQ1sP6XEAcEdS4TxGWm9X1KqP2FeIX7ASR6TkZ2CJzjK8SkvsFev2XSYAAAA=="
+          }
+        },
+        {
+          "id": "raw-1327",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1327.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2404215
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1328",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1328.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2387069
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1329",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1329.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "front view",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2455802
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1330",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1330.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "full frontal — best raw 'before'",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2489593
+          },
+          "web": {
+            "src": "/assets/p14/raw-1330.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwBACdASoUABsAPxF6t1MsJ6WiqAqpgCIJYwDM0DNIhKeGAVwvyGSyknDFfPS5jsAA/rUeanTj0whAnOy5z1RWbVW3MaC2ru357wG6lN5yPKqeTm29XgG0oGK/fTEa++HmuoZF4t38Ci8GWEa+RVlNQxZdnmb4I//mUZ4DFOS6ocrj0Rl+Z2CAAAA="
+          }
+        },
+        {
+          "id": "raw-1331",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1331.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2477142
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1332",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1332.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2443694
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1333",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1333.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2501434
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1334",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1334.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2498020
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1335",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1335.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "three-quarter with shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2531128
+          },
+          "web": {
+            "src": "/assets/p14/raw-1335.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwBACdASoUABsAPxF2slIsJySisBgIAYAiCUAToACLfd/uJUURDU6TTQmnyMQAAP4RauINBc3Lv343HIxhg//Uh/U0LAW4H5wmT8+I621LcB3aTyUrw864FhAVpgxzWH4bwwrqc6RLkryFHVCWtDomkNACU210ZKhJbBIjMuwhdhVrGAGLhJAHb1gJ2gpJJDGXYgAA"
+          }
+        },
+        {
+          "id": "raw-1336",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1336.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2505428
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1337",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1337.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2504335
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1338",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1338.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2341900
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1339",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1339.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2366506
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1340",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1340.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2566196
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1341",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1341.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "three-quarter, wider",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2451768
+          },
+          "web": {
+            "src": "/assets/p14/raw-1341.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoUABsAPxFwrlAsJiQisAgBgCIJZQCyzB40s6M5OdEgJVZfYL4AAM3R7I0PwigSlZPBLsEv8lD0AiuQ2cGoT759mE3SBDW29Z+mcpbl5tsygoD6fVmsf2Wuoj+ovZg9nN/CXpNK09464cZh29k5j8scaM2edAAA"
+          }
+        },
+        {
+          "id": "raw-1342",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1342.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2437336
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1343",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1343.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3879516
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1344",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1344.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3922467
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1345",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1345.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "three-quarter view with hard shadow",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 4016850
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1346",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1346.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "full frontal, centered",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 4073326
+          },
+          "web": {
+            "src": "/assets/p14/raw-1346.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADQBACdASoUABsAPxF6tVQsJ6SjKAqpgCIJYwDGfDTp7TwLQBHkF85qSTiLL/NuAAD+r47BTX/Mish42XjPso5hOXvpeQrtO8lHB4ihY7K7ghYM9rcrr4qw7w3wxji7Y1+YFSST0b1VHiyqY+n5gzfETzeYiUr9/SY/zl4WZiTR5u3Ckgc8D5Z3/RvC2BqEEOYZpgoAAAA="
+          }
+        },
+        {
+          "id": "raw-1347",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1347.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "full frontal",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3830065
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1348",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1348.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "full frontal",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3920570
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1349",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1349.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "full frontal",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2462307
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1350",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1350.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "full frontal alt",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2465960
+          },
+          "web": {
+            "src": "/assets/p14/raw-1350.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwBACdASoUABsAPxF6s1GsKCSisBgIAYAiCWMAyywQ8M0ZqlIOQqT3yK1J57QQTgAA/L2noVYntMBNJ2bHgI6d3KctM7xTMsuhWM5yQmEM3cK2+jCGExubNjGzkEhUQi1cnZ4sDd/YJX141D/Gl2aCXS76MJuwuBecxspuUZxOLsAAAAA="
+          }
+        },
+        {
+          "id": "raw-1351",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1351.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "full frontal",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2483666
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1352",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1352.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "full frontal",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2475574
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1353",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1353.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "tilted frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2469848
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1354",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1354.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "tilted frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2547102
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1355",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1355.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": true,
+          "note": "tilted frame study",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 1959906
+          },
+          "web": {
+            "src": "/assets/p14/raw-1355.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwBACdASoUABsAPxF8slQsJ6QjKAqpgCIJYwDDNDGxMf+xRAYNyX8usblSS2XgAP33NuVeFMiRMhaWy3wcu9WonKe+6WxVUcjWXu3UPZ54e6Ifzmo77qYfePLs7h/FlVM7/WVLCog1mM8p6iq1mmFpPH9vBgL9VEyGlNrT3FbgBDHF4QAAAA=="
+          }
+        },
+        {
+          "id": "raw-1356",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1356.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "tilted frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2041566
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1357",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1357.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "tilted frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2022605
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1358",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1358.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "full",
+          "tier": "thumb",
+          "curated": false,
+          "note": "tilted frame angle",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 1951698
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1359",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1359.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": true,
+          "note": "cushion close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2304432
+          },
+          "web": {
+            "src": "/assets/p14/raw-1359.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBQCdASoUABsAPxFys1MsJiSisBgIAYAiCWMAyrQ0LfBvgpDHAi75bIcSyln5NbnI1CAKAAD+1J8z2EnnAmfVq6+OcUcJWPg5IkmW45QTj9q5PTXI7wNFrNk6ozYW4l10rGyO1pvcmgDgyrd9Nrl8AyHKTA7jUL30TfTQE5qAfftIz2ZZgR/R77gm4hCForRihCFdXNklH46Wxm3GxnCTzUn6JtWAAAA="
+          }
+        },
+        {
+          "id": "raw-1360",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1360.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2676064
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1361",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1361.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2754902
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1362",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1362.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2540305
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1363",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1363.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": true,
+          "note": "armrest and seat close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2596985
+          },
+          "web": {
+            "src": "/assets/p14/raw-1363.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwBACdASoUABsAPxF6t1MsJ6WiqAqpgCIJYwC4qAys+rWRzWvbMK10+xOwl6VQyEAA/e5sHs7RueKLJnVbKd6W4LbAmrh1M6tUMtb8QMzFJAbLnIlJaoQiAu4SkPd2wq5ZtzDvtjCbzB7DuspoH2ekywdIvq000m3zTlLGmrGEaoSsYhviavVdj21FEKJGe1QOK9JclOfQRAAA"
+          }
+        },
+        {
+          "id": "raw-1364",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1364.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2729793
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1365",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1365.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3034617
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1366",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1366.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 4240200
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1367",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1367.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 4144933
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1368",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1368.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "close",
+          "tier": "thumb",
+          "curated": false,
+          "note": "cushion and armrest close-up",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3757622
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1369",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1369.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": true,
+          "note": "fabric macro, tufting",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3969465
+          },
+          "web": {
+            "src": "/assets/p14/raw-1369.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBQCdASoUABsAPxFws1MsJaSisBgIAYAiCUAYmwHpdfTOjQY1rniCaV/BI3AID71EQAD+n8Lt4X7/W2v/ctonPsFChKGXPgTIoqS7839otUOfRAoxDWdDT1QZ9pXW/tufhR/EPuOy+wTZiIQ//ts1eG+V5cBROaEw6zRIV9h1OVd+RFGNmmABj0HprREKfFQII8HEEiqyPG0aYL9SzmoAAAA="
+          }
+        },
+        {
+          "id": "raw-1370",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1370.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3597873
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1371",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1371.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3684055
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1372",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1372.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 4252222
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1373",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1373.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3665951
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1374",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1374.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": true,
+          "note": "fabric macro, weave",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 2792178
+          },
+          "web": {
+            "src": "/assets/p14/raw-1374.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoUABsAPxFysFCsJqSisAgBgCIJZQAAW9M7DoMAzy8FLAFPh+fC5gQYAP7DiZlWOhAj97zKSgX9dly7/PP0MWpZ0Q8WDLC4cyOeKlWGkocOepwYm9vbgPBz0a7z30LwR9qrtIX5L1RwAA=="
+          }
+        },
+        {
+          "id": "raw-1375",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1375.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3434452
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1376",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1376.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": false,
+          "note": "fabric texture macro",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3947495
+          },
+          "web": null
+        },
+        {
+          "id": "raw-1377",
+          "original": "product-assets/source/lusso-green-sofa/raw/IMG_1377.JPG",
+          "category": "raw",
+          "scene": "warehouse",
+          "setting": "warehouse",
+          "crop": "macro",
+          "tier": "thumb",
+          "curated": true,
+          "note": "fabric macro, cushion seam",
+          "originalMeta": {
+            "width": 3024,
+            "height": 4032,
+            "aspect": 0.75,
+            "orientation": "portrait",
+            "bytes": 3122040
+          },
+          "web": {
+            "src": "/assets/p14/raw-1377.jpg",
+            "width": 1200,
+            "height": 1600,
+            "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQBACdASoUABsAPwlsrlArpaQjN/VYAXAhCWUAALvK8xtYUkSAlycV2TWeZbEOgAD+3tqdLIQeQc3qp1xU7TxFDwb3u8s94djl/zvF7S08Wt87PbvV2uvmppYU9PgO1MSZO/iYIdVGyAkjFxrONkb2AwAkDnQbYBxQAA=="
+          }
+        },
+        {
+          "id": "studio-grey-1",
+          "original": "product-assets/source/lusso-green-sofa/Studio  (1).jpeg",
+          "category": "studio",
+          "scene": "studio-grey",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "large",
+          "note": "three-quarter packshot, grey sweep",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 481382
+          },
+          "web": {
+            "src": "/assets/p14/studio-grey-1.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwBACdASoUACQAPxF8tFOsJ6SipWzJgCIJZwAAw4NqMYYlUnEIz2Ra/aaYq2WAAP7vQ/IPXf+sPPp4einMTW5GbyYf2ryuIjO5i3Kg3oPMWVocK/P2/HFhBrUfNctzGo5IoqMFTP92W2H5fhWzPtStkd0V7RERFXxSGrf9G925kAAA"
+          }
+        },
+        {
+          "id": "studio-grey-2",
+          "original": "product-assets/source/lusso-green-sofa/Studio  (2).jpeg",
+          "category": "studio",
+          "scene": "studio-grey",
+          "setting": "studio",
+          "crop": "macro",
+          "tier": "large",
+          "note": "armrest joinery macro",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 633461
+          },
+          "web": {
+            "src": "/assets/p14/studio-grey-2.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBgCdASoUACQAPwlysVArpyUiqq35cCEJZQDDrBfexo9SQ0s5cH8JHdtzZGdekCYKDzzIV6nHdQAA/nJofIddmcEcI1PcwrRt0eOi4/KVesX7TmgQ/vKp7grKAC32BbrCHiL1H6ZpGGcBclvCpAsviXFynZ9cqtrtUPe2xflp+m0rGVGmV0TOjsmxrJC9fqhsQaAA"
+          }
+        },
+        {
+          "id": "studio-grey-3",
+          "original": "product-assets/source/lusso-green-sofa/Studio  (3).jpeg",
+          "category": "studio",
+          "scene": "studio-grey",
+          "setting": "studio",
+          "crop": "macro",
+          "tier": "large",
+          "note": "backrest tufting macro",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 750487
+          },
+          "web": {
+            "src": "/assets/p14/studio-grey-3.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBgCdASoUACQAPvlmrFAqpaSitVv8AVAfCWcAynghX9nRQESHPpDdlvd/MMVR85PajEmz2SJxcAAA/t5bWyO0ZvWDY0fHUBHQF9M6iyL6of7toE0XthqjtUh6ceMbxCev6IPu573BAHzG3sD0+/op4Bv0R6dB1nHhCWdPXpFvVrr7HHK/s7j0AAAAAA=="
+          }
+        },
+        {
+          "id": "studio-grey-4",
+          "original": "product-assets/source/lusso-green-sofa/Studio  (4).jpeg",
+          "category": "studio",
+          "scene": "studio-grey",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "large",
+          "note": "high three-quarter packshot",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 534900
+          },
+          "web": {
+            "src": "/assets/p14/studio-grey-4.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwBQCdASoUACQAPxF8tVOsJ6SipWzJgCIJZQDMHDnfwMyfJLyHCkbzbl4QaxLwR5Ci6AD+6mK+5NP7nWjqYbSV/xpUEwV/8sGxPjaHFuilcE5THSVSY/opvYuAgzSEj80yxhQV+tlyzg0ALddKpuG4GWMK01iJw7B5qHEW2xTorbNwGyzarJEwGxZea991UpkUvAAA"
+          }
+        },
+        {
+          "id": "studio-grey-5",
+          "original": "product-assets/source/lusso-green-sofa/Studio  (5).jpeg",
+          "category": "studio",
+          "scene": "studio-grey",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "large",
+          "note": "frontal packshot, grey sweep",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 517205
+          },
+          "web": {
+            "src": "/assets/p14/studio-grey-5.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASoUACQAPxF2t1QsJqUsqrgKAZAiCWcAAKGfiyd75itL2ilD07MfbGAgegAA/t6oUT9kpB6i08OekoatVtEtUwe0W7w3fbdCzvaRWaWmCqNpBDsAwHYbqjW69zUzyAIsXsRZxPngDb3Z/o0iNPq3I+Z8t3CZ1HwAAAA="
+          }
+        },
+        {
+          "id": "studio-white-1",
+          "original": "product-assets/source/lusso-green-sofa/p14new1.png",
+          "category": "studio",
+          "scene": "studio-white",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "hero",
+          "note": "three-quarter clean packshot — strongest packshot hero",
+          "originalMeta": {
+            "width": 1254,
+            "height": 1254,
+            "aspect": 1,
+            "orientation": "square",
+            "bytes": 1905588
+          },
+          "web": {
+            "src": "/assets/p14/studio-white-1.jpg",
+            "width": 1254,
+            "height": 1254,
+            "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwBACdASoUABQAPxF0s1EsJqSiqA1RgCIJZwAALdAHKLxJ5RgjDR6DqOBzfxWAAP7qhRSLOh1ikQ9DoEV5QORwsuLFpYWaY+mG8sWluZkqy4gISblTavztGusekC/cCAVzWE4Q9M+8l9pXWT4i4pbRVPS9gAAA"
+          }
+        },
+        {
+          "id": "studio-white-2",
+          "original": "product-assets/source/lusso-green-sofa/p14new2.png",
+          "category": "studio",
+          "scene": "studio-white",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "large",
+          "note": "side profile clean packshot",
+          "originalMeta": {
+            "width": 1254,
+            "height": 1254,
+            "aspect": 1,
+            "orientation": "square",
+            "bytes": 1374595
+          },
+          "web": {
+            "src": "/assets/p14/studio-white-2.jpg",
+            "width": 1254,
+            "height": 1254,
+            "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASoUABQAPxF4sVIsJySiqA1RgCIJaQAALnXvzkViUd1W4+RBN6rCAAD+7TegdRT7hTuqgjXTv3DhGH1AwtzbCq6Bj4hVd/v6jE+Kvy2OB+h6OVRsvS3x6ZtfR+rc3xVDZJowAA=="
+          }
+        },
+        {
+          "id": "studio-white-3",
+          "original": "product-assets/source/lusso-green-sofa/p14new3.png",
+          "category": "studio",
+          "scene": "studio-white",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "large",
+          "note": "three-quarter alt clean packshot",
+          "originalMeta": {
+            "width": 1254,
+            "height": 1254,
+            "aspect": 1,
+            "orientation": "square",
+            "bytes": 1860210
+          },
+          "web": {
+            "src": "/assets/p14/studio-white-3.jpg",
+            "width": 1254,
+            "height": 1254,
+            "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoUABQAPxF+tlWsJ6SjKAgBgCIJaQAAKqPF3LjyYJXAYt/uSAAA/uqW25RKhCDxCu2GnsKRm4b2UXjnjX2JM+IzCGxNMgKy1YdRoMW9+GDJ1FVLJ3wiu0kWL8OmHDBblQXpOgEFJBusnExGkAAAAA=="
+          }
+        },
+        {
+          "id": "studio-white-4",
+          "original": "product-assets/source/lusso-green-sofa/p14new4.png",
+          "category": "studio",
+          "scene": "studio-white",
+          "setting": "studio",
+          "crop": "macro",
+          "tier": "large",
+          "note": "armrest + fabric macro on white",
+          "originalMeta": {
+            "width": 1254,
+            "height": 1254,
+            "aspect": 1,
+            "orientation": "square",
+            "bytes": 2457798
+          },
+          "web": {
+            "src": "/assets/p14/studio-white-4.jpg",
+            "width": 1254,
+            "height": 1254,
+            "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQBACdASoUABQAPxF+tVWsJ6SjKAgBgCIJZwAAKs0jp1f65TeWzQo16Dp5Dks+wAD7XTA8ZQNOSBWrGNt78qwtaCb5MVwlHRLJIqvQcjjVUJp0wuafNNv4C6LJ0Pa0TCRM3M8K6oR2C5cB+81oGUU1xzZpNucFvY5riohDKg4c1rmMGOY03aamGPAAAA=="
+          }
+        },
+        {
+          "id": "studio-white-5",
+          "original": "product-assets/source/lusso-green-sofa/p14new5.png",
+          "category": "studio",
+          "scene": "studio-white",
+          "setting": "studio",
+          "crop": "full",
+          "tier": "hero",
+          "note": "frontal clean packshot — best 'after' vs raw front",
+          "originalMeta": {
+            "width": 1254,
+            "height": 1254,
+            "aspect": 1,
+            "orientation": "square",
+            "bytes": 1910457
+          },
+          "web": {
+            "src": "/assets/p14/studio-white-5.jpg",
+            "width": 1254,
+            "height": 1254,
+            "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoUABQAPxF8sVQsJ6QjKAqpgCIJZwAAKdOHwOoqfbaT80BohV9gAAD+7VzZ/68vCg5foBmZsmf5mG2Z45dkhPdwCHwdUaSDHkIuHDpXhcoRCPQ9D8du8L3q9nmpAqaLvF7ZbDd0iM7Bn379QVUFt8N6uijVNiAAAAA="
+          }
+        },
+        {
+          "id": "scene-beach-1",
+          "original": "product-assets/source/lusso-green-sofa/p14beach1.jpeg",
+          "category": "lifestyle",
+          "scene": "beach",
+          "setting": "outdoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "chair on shoreline sand",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 950669
+          },
+          "web": {
+            "src": "/assets/p14/scene-beach-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwBACdASoUABsAPxF0r1AsJyQisAgBgCIJQBZZgpu2KJmgl3VGZ+yyYNtekAD8ZfqOxG8EbLT/u26LWS2rZEOOqnf48ks8sxJyHeJuODT3VG/NMWE58omlvAiNe3CiJetvtZSxKqh9tlqEtN4Y9rSs8LE2Hg/gdYpl6G0/MT4bJsAA"
+          }
+        },
+        {
+          "id": "scene-beach-2",
+          "original": "product-assets/source/lusso-green-sofa/p14beach2.jpeg",
+          "category": "lifestyle",
+          "scene": "beach",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "backrest close-up against surf",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 850056
+          },
+          "web": {
+            "src": "/assets/p14/scene-beach-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACwBQCdASoUABsAPxF0slIsJqSisBgIAYAiCWUAxnwR+TctL1YxWwEInE5TKz4zXVaYh2a4DQAA/t7woOstGh2kO83sgoqcCNBHkWRorEMTuMUSRq4jiofSexFU3za4moGV8KxbXtOLdcyogrN83PWDRpBsGjJkVhtXd9ievE680d0r2qjf1qj/XcIrFbOgAAA="
+          }
+        },
+        {
+          "id": "scene-beach-3",
+          "original": "product-assets/source/lusso-green-sofa/p14beach3.jpeg",
+          "category": "lifestyle",
+          "scene": "beach",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "armrest close-up, shells in sand",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 850845
+          },
+          "web": {
+            "src": "/assets/p14/scene-beach-3.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBQCdASoUABsAPxF4s1IsJySisBgIAYAiCWMAxzARUgfdpPhPzEQrV8J0zzZuSosgAP3jYCxIzhAmFdPvqKfTx62CpuDP1VfBgZXrySihQkMhn11FaTH7VJR4VA9lqKq72yUj833aioWEmHgR4GHh4JekOjuqMxJQXPHYoGlzjV5YJ0K85Macsi30CiL3JN18RsuhudPDsZ0HeW5PQna2QOjjJJnFwAAAAA=="
+          }
+        },
+        {
+          "id": "scene-dark-1",
+          "original": "product-assets/source/lusso-green-sofa/p14dark1.jpeg",
+          "category": "lifestyle",
+          "scene": "dark",
+          "setting": "indoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "moody slatted-light close-up",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 850422
+          },
+          "web": {
+            "src": "/assets/p14/scene-dark-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBQCdASoUABsAPxFwrVAsJiQisAgBgCIJZwDI1BuZMer6YKnxx0/iBzyUhdF1LcGAAP7Ov5j6CrgbUpJRaLELy+Tnz+t+j+kfNPmgNWkM8KNeTW1pfGrSoPo3TEGWGfIteYc/kdqUxV9u1dZWHnigMK0i9SNuSVBvNbWxU5UiB0cTjNcpWOXryEY1rkLiBtxe5SO0AAA="
+          }
+        },
+        {
+          "id": "scene-dark-2",
+          "original": "product-assets/source/lusso-green-sofa/p14dark2.jpeg",
+          "category": "lifestyle",
+          "scene": "dark",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "moody interior, hard window light",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 812041
+          },
+          "web": {
+            "src": "/assets/p14/scene-dark-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASoUABsAPv1uq1ArJyQit/qoAWAfiWcAAFp54OrB/ff+kF9mq23BJcVugAD+8qnxvgwVMmI0OloGf1VuhNGxEaOunY5flhw0tai23n5MTp6694Jua+GuM1wJbdozKddI8GMfagAA"
+          }
+        },
+        {
+          "id": "scene-desert-1",
+          "original": "product-assets/source/lusso-green-sofa/p14desert.jpeg",
+          "category": "lifestyle",
+          "scene": "desert",
+          "setting": "outdoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "chair in desert rockscape, storm sky",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 1070818
+          },
+          "web": {
+            "src": "/assets/p14/scene-desert-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBQCdASoUABsAPxF6t1MsJ6WiqAqpgCIJQBOmcBnK8sdZv12k6FUEARt+xVxjVqtYQaotnoAA+N0sVmdUQayTewriyKRtr7Y5thhHS4zagIG+/dVDp+xnc2Zm6ogf/mTrc+Xgfm29gyDTCMrru4H0D7WiTZY0TilSOM8JgqMFhj9TZU0n0NZgEhNxQBmQaofd229LaOxNzOSUzpxYdbCTcg2zH/bwDMaruXAAAAA="
+          }
+        },
+        {
+          "id": "scene-desert-2",
+          "original": "product-assets/source/lusso-green-sofa/p14desert2.jpeg",
+          "category": "lifestyle",
+          "scene": "desert",
+          "setting": "outdoor",
+          "crop": "macro",
+          "tier": "large",
+          "note": "armrest macro against canyon wall",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 873909
+          },
+          "web": {
+            "src": "/assets/p14/scene-desert-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBQCdASoUABsAPxF6tlOsJ6UiqAqpgCIJQBfntgAM/GqsNQGzr8353anzbL4Y6uYNwAD+vVL/OGHQk9/JBq3yrGnxYBxqu4k76uhpreeCjr+2id1z1ri0j2bpM8QzvpSFMSz5yLNsvswRXar888G6b0kiHYfJo3Kaj5dg7JlhpnNkWKTV47oMJlCztfS1P6dXPIe3rbm2TK9PL6GO6cL+4/AAAA=="
+          }
+        },
+        {
+          "id": "scene-desert-3",
+          "original": "product-assets/source/lusso-green-sofa/p14desert3.jpeg",
+          "category": "lifestyle",
+          "scene": "desert",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "seat close-up in desert light",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 894858
+          },
+          "web": {
+            "src": "/assets/p14/scene-desert-3.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBQCdASoUABsAPxGAt1WsJ6UjKAgBgCIJQBdmcdgof2Nq2REuFDnUQ9NYfZUoF0EF8yAAAP6eg2T9stCzV7VaRu0b0YSYGnIHk4NrRAnTmC+pR45ADJHmjYr/aeNTQEbeAiBRHZaKB9t32E8MvbJAv9FA4oxSXwqCFBh9tOtkqZHatvcAv8nwEmZoNtBi3DJHmYXv1wSKiF+oyG4dGz2QVxoq6bmf7A5iLj/jI+vOdJR5ZvHoAAAA"
+          }
+        },
+        {
+          "id": "scene-gallery-1",
+          "original": "product-assets/source/lusso-green-sofa/p14gallery.jpeg",
+          "category": "lifestyle",
+          "scene": "gallery",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "light interior with dried-branch vase — strongest indoor scene",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 773478
+          },
+          "web": {
+            "src": "/assets/p14/scene-gallery-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBQCdASoUABsAPxF8sVIsKCSisBgIAYAiCWcAzcA0blWkGhilIvUTipQH8YLAMXU4AAD93X5QdY725odiiVbg7YhA5m0qM3go80j97iEv8vgih/d2GDFkC+v+SdM7XIIS7q8yW6+iSpGqo4AAebg5JxOmghDxF8qKONYIU+hAAAAA"
+          }
+        },
+        {
+          "id": "scene-gallery-2",
+          "original": "product-assets/source/lusso-green-sofa/p14gallery2.jpeg",
+          "category": "lifestyle",
+          "scene": "gallery",
+          "setting": "indoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "three-quarter close with pillow",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 795296
+          },
+          "web": {
+            "src": "/assets/p14/scene-gallery-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBQCdASoUABsAPxF6uFMsJ6WiqAqpgCIJZwDLpA9lFBXClWXlnz7K3k2OqVDx+TplYAAA/qq3WPVPufJrKjYWS703S5ETyo673pdpvCJT5AxYhPhpDp/GZVw08y6/6YTWCXrdfvhfyFlq9Z+gbSR4RMv1GjUyPdpMDxjm3OKQfc8D69BpFHiWU+wpxxekRZaYwLy/dvdoWfQ5kYAAAA=="
+          }
+        },
+        {
+          "id": "scene-gallery-3",
+          "original": "product-assets/source/lusso-green-sofa/p14gallery3.jpeg",
+          "category": "lifestyle",
+          "scene": "gallery",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "large",
+          "note": "three-quarter with pillow, wide",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 826262
+          },
+          "web": {
+            "src": "/assets/p14/scene-gallery-3.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBQCdASoUABsAPxF0sFAsJySisAgBgCIJZwDHMBxOBwdaS8VMcnAkovOtdfXBosyTta445wAA/sPyNjpu+ml51x4oUgScPX9pt0tn36E4tBRDQ0UPQEfMxs/5+8zyMfWvaxLKfxQtVyk71fxf3BmJ72plmE4T6W/HQSJIniW39CwxYrnNjW3gdSAxALqEm/hfEUYRpH7YJ3f9Qre6a8a7DUkbT4LHAAA="
+          }
+        },
+        {
+          "id": "scene-veranda-1",
+          "original": "product-assets/source/lusso-green-sofa/p14veranda1.jpeg",
+          "category": "lifestyle",
+          "scene": "veranda",
+          "setting": "outdoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "warm stucco veranda, raking sun",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 1004843
+          },
+          "web": {
+            "src": "/assets/p14/scene-veranda-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBQCdASoUABsAPxFysFAsJqSisAgBgCIJYwCsABjb7dQvh4pP+JlxKi4zzDKcxckHAAD5dHdbf7/gMuAzcxqH5DV3FCBLXepeMKYhovVFQ9kuZP9Y/bgU8rV/itRWTBzhc8/cF/3AoM/TWZIGkVRyDAOydD5LBe1WYlSzu1vGo9rldQUXU/ABObq7AAAA"
+          }
+        },
+        {
+          "id": "scene-veranda-2",
+          "original": "product-assets/source/lusso-green-sofa/p14veranda2.jpeg",
+          "category": "lifestyle",
+          "scene": "veranda",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "dappled shadow close-up",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 1083187
+          },
+          "web": {
+            "src": "/assets/p14/scene-veranda-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBQCdASoUABsAPxF6tlOsJ6UiqAqpgCIJQBdmdDgy4JBlVYWOTiaeGU/zW52ZgsgsmeQT3QAA/pkX9mARgUV6PLQZWgA6uwpKftAzJg7HBuXFf/lIxS8JmcXT7M8zOnDioH5a9bODzUrxWAKmPXvuPzTbp8EBUISSwHyxKekKXeVq4hr384n8bT8cQiVgbO+SIZP7GePnmgT35OUst68WcoG2K/AAAAA="
+          }
+        },
+        {
+          "id": "scene-veranda-3",
+          "original": "product-assets/source/lusso-green-sofa/p14veranda3.jpeg",
+          "category": "lifestyle",
+          "scene": "veranda",
+          "setting": "outdoor",
+          "crop": "macro",
+          "tier": "large",
+          "note": "armrest macro in sunlight",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 921617
+          },
+          "web": {
+            "src": "/assets/p14/scene-veranda-3.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBQCdASoUABsAPxF0s1KsJqSisBgIAYAiCWMAwNwRjw+83QQa7+SxXtvGt+ladONLYAAA/Mi1SX3HcScq1E2EkaS7Yq+ggE9yh/XfpFNxF4InYjdAaixYZ38cg9GkBrCWquXkR10cZuGaGwEXb6PB3HWd2IRaaNkJI1SB/Hue79YMS1G9dG6ALxpmwRg/3pZBaFiwAAA="
+          }
+        },
+        {
+          "id": "scene-wheat-1",
+          "original": "product-assets/source/lusso-green-sofa/P14WHEAT.jpeg",
+          "category": "lifestyle",
+          "scene": "wheat",
+          "setting": "outdoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "chair in wheat field, evening sky",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 890077
+          },
+          "web": {
+            "src": "/assets/p14/scene-wheat-1.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBACdASoUABsAPxFwr1AsJiQisAgBgCIJQBdgAqpMrSNJeZT+1Ab8vs7wbAwA/q9uQqb9xsjE7DfPf6KL6+m+1dr8DV3CaVVKGtZlQMvWZm8BI/vF2iSaCxL3fmEWVUz4UHw2aJfxhF20omxrRgY8bVcV/4+Pw0JIyX8MKVUV96aQuxLQHaGrVndeb/eiaEDAAA=="
+          }
+        },
+        {
+          "id": "scene-wheat-2",
+          "original": "product-assets/source/lusso-green-sofa/p14wheat2.jpeg",
+          "category": "lifestyle",
+          "scene": "wheat",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "armrest through wheat stalks",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 842817
+          },
+          "web": {
+            "src": "/assets/p14/scene-wheat-2.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBQCdASoUABsAPxF8s1QsJ6QjKAqpgCIJQBfnAigAmgpF9i4l9wvEDohyS26V88tSxU0oAAD3Tc0IEd/YEy/MJ52oGIRDSvOnxfpRhAhGv5q7fiMS7YYJuhLlpwttTv09xUTweH9jH/xtGsUaAfPKLPdh8XrT3SCDrOoV8uQ+O2DAYMvZacJe9pO4vUsytvWsE0V6W3w7wAAA"
+          }
+        },
+        {
+          "id": "scene-wheat-3",
+          "original": "product-assets/source/lusso-green-sofa/p14wheat3.jpeg",
+          "category": "lifestyle",
+          "scene": "wheat",
+          "setting": "outdoor",
+          "crop": "close",
+          "tier": "large",
+          "note": "seat front close in field",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 909339
+          },
+          "web": {
+            "src": "/assets/p14/scene-wheat-3.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBQCdASoUABsAPxF+tlWsJ6SjKAgBgCIJQBfqa/lWAC1iFPtydVw81TOOkUw7SfQLZAD8vof1oKZWhhTRCEkooavKuS/THh6TjFj7pwMjftreQfMyKA82e8Rfil5iZW4lEVhxKIs+fdO8k4BHU/dPuwlDUieJIbNv+8waKufLZiNZ2L8GOCV4Vb5NH06V8uv7tlQ2+XfRRqOxCd7Hj4ZozO33t05oyQ6C2pwi4iFXUAAA"
+          }
+        },
+        {
+          "id": "scene-wheat-4",
+          "original": "product-assets/source/lusso-green-sofa/p14wheat4.jpeg",
+          "category": "lifestyle",
+          "scene": "wheat",
+          "setting": "outdoor",
+          "crop": "full",
+          "tier": "large",
+          "note": "three-quarter against open sky",
+          "originalMeta": {
+            "width": 896,
+            "height": 1200,
+            "aspect": 0.7467,
+            "orientation": "portrait",
+            "bytes": 937795
+          },
+          "web": {
+            "src": "/assets/p14/scene-wheat-4.jpg",
+            "width": 896,
+            "height": 1200,
+            "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBQCdASoUABsAPxF8s1GsKCSisBgIAYAiCUAToAGs+HLcI/SiEhnocIf+3cQ7sIOYxaAA/c61U1yqyY6Mg2Ze8SlfsuL5zNtf3e5ZOH88yG1LLIHRfcUCOHKEHndw3VF5GC8e/iztoIQF+sv4jdZuYsKwa4xHS3wgdnYHXhIBfMNvpCKsT0r9S/s/wZbAAAA="
+          }
+        },
+        {
+          "id": "campaign-1",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (1).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "dark gallery with human figure — hero for dark concepts",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 484989
+          },
+          "web": {
+            "src": "/assets/p14/campaign-1.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASoUACQAPxFwslEsJiSiqrgN+YAiCWkAAP9ZGlOc0tyGNzMedo1e4SgA/vEf3Uz8KGsp95842EiOBI7EL5YcMHGT4wiJi7LC2Zp9XdAPSIjTp8by6Qx648xVKjSVXOJJZiMMTAAA"
+          }
+        },
+        {
+          "id": "campaign-2",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (2).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "warm beige interior, curtain light",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 592404
+          },
+          "web": {
+            "src": "/assets/p14/campaign-2.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwBQCdASoUACQAPxF4slMsJyQiqrgMAYAiCWcAxvQhnx7b2q7PMDOD4wCpKIxTT59PmF/9Ub4ugAD+Pf0lpRvdKvy/KKNv9Y6P5OBkLm9gnca00HlWIIvnUcsWemTxa/mGZAUC21NK1nLZ2LvU87A9In4XimRiuga/pNla7GiF08FbyY7I88QNEbpw9NDDCn8IZudBFXEP+9hqfAgJNAAA"
+          }
+        },
+        {
+          "id": "campaign-3",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (3).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "stone arches with floor lamp — strongest single hero",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 693003
+          },
+          "web": {
+            "src": "/assets/p14/campaign-3.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBQCdASoUACQAPxFysVEsJqSiqqwBgCIJZwDE2BBb7Ns9IZ9bQfeCc2ycQJJswr+SBWBoAP7QOiI+ZHt+wHORYVEvozilSwYLZe5EIYYcJJXDG0bAyaMZyRbn7eVE3GBX8KN2Y3GjuW+EwrpeU37zXrz0NbDFk8FLXFoCvl/ElFmyxJeAfNnTSLDmqkq+svEDtJL/nl6stX01oUi5d3PMvAA="
+          }
+        },
+        {
+          "id": "campaign-4",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (4).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "large",
+          "note": "travertine hall, landscape orientation",
+          "originalMeta": {
+            "width": 1376,
+            "height": 768,
+            "aspect": 1.7917,
+            "orientation": "landscape",
+            "bytes": 631929
+          },
+          "web": {
+            "src": "/assets/p14/campaign-4.jpg",
+            "width": 1376,
+            "height": 768,
+            "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoUAAsAPxFysFAsJqSisAgBgCIJQBOgAxts7F0wCTIlRQAA307A96v4QGrUKSHbkSJJxG/pEWI7Wp+wTGzyO6oxRXjftt5T0GrOkPY1BTYBwHGtQg0/SAAA"
+          }
+        },
+        {
+          "id": "campaign-5",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (5).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "large",
+          "note": "travertine hall alt, landscape orientation",
+          "originalMeta": {
+            "width": 1376,
+            "height": 768,
+            "aspect": 1.7917,
+            "orientation": "landscape",
+            "bytes": 595166
+          },
+          "web": {
+            "src": "/assets/p14/campaign-5.jpg",
+            "width": 1376,
+            "height": 768,
+            "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoUAAsAPxFwsFAsJiSisAgBgCIJQBOgAxvCLvbisek2eAAA4hDY+3w+Udjvq2pwhWI8LX5mEliwW7ohGBqD9gX7g15ANwoPi5PxjSQA+bktj6hJ0ftGhjtC+dVosKbAAAA="
+          }
+        },
+        {
+          "id": "campaign-6",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (6).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "hero",
+          "note": "white sheer curtain, sunlit — light and airy hero",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 631894
+          },
+          "web": {
+            "src": "/assets/p14/campaign-6.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoUACQAPxF+s1SsKCQkJWzJgCIJZwDMWC5A0eXxqIHUFP0FD/VCW3koAMqSG9h9PIK6zQJsbPPksb3f4TScqMWD4jCoTiMNGr8tFTC/sZ4Kx4NdWOI1iOAmV8rdqvMg/u/CO+zMGVJ7x4ZtAu7a/TBUsywh+S0DkHxJryFNXxocs0N82kzBdOKUFI03oWEx+Ykrs3bfy3OLvsAA"
+          }
+        },
+        {
+          "id": "campaign-7",
+          "original": "product-assets/source/lusso-green-sofa/Lifestyle  (7).jpeg",
+          "category": "campaign",
+          "scene": "editorial",
+          "setting": "indoor",
+          "crop": "full",
+          "tier": "large",
+          "note": "dark room, distant figure",
+          "originalMeta": {
+            "width": 768,
+            "height": 1376,
+            "aspect": 0.5581,
+            "orientation": "portrait",
+            "bytes": 496089
+          },
+          "web": {
+            "src": "/assets/p14/campaign-7.jpg",
+            "width": 768,
+            "height": 1376,
+            "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQBQCdASoUACQAPxFys1OsJiSkKrgMAYAiCWcAAGBJmVrH5uRV1usLkYuZ5ykQ2mtqx9+Ug9SAAP71csQ6IOopSCsGSYDRamGGZ4/d1Buo8nTzLMX2ftAIiK9UGesteHqJBiOw/C933B8QNZ4FrIOQshP6YEqS/pjtwAAA"
+          }
+        }
+      ]
+    }
+  ]
+}
