@@ -24,9 +24,12 @@ const CATEGORY_LABEL: Record<string, string> = {
 export default function Lightbox({ assets, openIndex, onClose }: LightboxProps) {
   const [index, setIndex] = useState(0);
 
-  useEffect(() => {
+  // Sync to the requested index when (re)opened — state-adjust-during-render pattern.
+  const [prevOpenIndex, setPrevOpenIndex] = useState<number | null>(null);
+  if (openIndex !== prevOpenIndex) {
+    setPrevOpenIndex(openIndex);
     if (openIndex !== null) setIndex(openIndex);
-  }, [openIndex]);
+  }
 
   const open = openIndex !== null;
   const prev = useCallback(
