@@ -107,8 +107,8 @@ export default function Concept02Client({ product }: { product: Product }) {
                   ) : (
                     <div className="flex shrink-0 gap-[3px]">
                       {rowThumbs.map((a) => (
-                        <div key={a.id} className="relative h-[68px] w-[34px] overflow-hidden rounded-[7px] first:w-[34px]">
-                          <AssetImage asset={a} fill sizes="60px" />
+                        <div key={a.id} className="relative h-[68px] w-[40px] overflow-hidden rounded-[7px]">
+                          <AssetImage asset={a} fill sizes="80px" />
                         </div>
                       ))}
                     </div>

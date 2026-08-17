@@ -161,17 +161,23 @@ export default function Concept04Client({ product }: { product: Product }) {
             </p>
           </Reveal>
           <Reveal delay={0.14}>
+            {/* bg matches the page so mix-blend-multiply removes the packshot's white
+                box even inside the transform's isolated stacking context */}
             <motion.div
               animate={{ y: [0, -7, 0] }}
               transition={{ repeat: Infinity, duration: 5.5, ease: "easeInOut" }}
-              className="relative aspect-square"
+              className="relative aspect-square bg-sage-bg"
             >
               <AssetImage
                 asset={heroAsset}
                 fill
                 sizes="45vw"
-                className="object-contain drop-shadow-[0_18px_24px_rgba(46,70,50,0.25)]"
+                className="object-contain mix-blend-multiply"
                 priority
+              />
+              <span
+                aria-hidden
+                className="absolute inset-x-8 -bottom-2 h-4 rounded-[50%] bg-green-deep/20 blur-md"
               />
             </motion.div>
           </Reveal>

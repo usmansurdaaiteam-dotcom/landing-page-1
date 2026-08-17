@@ -46,7 +46,7 @@ export default function ConceptsPage() {
                   <p className="kicker text-text-faint">
                     {concept.number} · {concept.tagline}
                   </p>
-                  <h2 className="mt-1 truncate font-serif text-[18px]">{concept.title}</h2>
+                  <h2 className="mt-1 font-serif text-[17px] leading-tight">{concept.title}</h2>
                   <p className="mt-1 truncate text-[11.5px] text-text-muted">{concept.interaction}</p>
                 </div>
                 <svg width="14" height="10" viewBox="0 0 14 10" fill="none" className="shrink-0 text-green-deep" aria-hidden>
