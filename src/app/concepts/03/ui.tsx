@@ -175,9 +175,9 @@ export default function Concept03Client({ product }: { product: Product }) {
       {/* Timeline */}
       <div ref={timelineRef} className="relative">
         {/* rail */}
-        <div className="absolute bottom-10 left-[13px] top-2 w-px bg-text-ink/12" aria-hidden />
+        <div className="absolute bottom-10 left-[12.5px] top-2 w-[2px] rounded-full bg-text-ink/10" aria-hidden />
         <motion.div
-          className="absolute left-[13px] top-2 w-px origin-top bg-green-deep"
+          className="absolute left-[12.5px] top-2 w-[2px] origin-top rounded-full bg-green-mid"
           style={{ scaleY: lineScale, height: "calc(100% - 3rem)" }}
           aria-hidden
         />
